@@ -1,4 +1,4 @@
 wp-verison-archive
 ==================
 
-Archive of all Wordpress versions released since I started developing
+My own personal archive of all Wordpress versions released since I started developing
